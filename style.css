@@ -1,9 +1,4 @@
-/**
-* Template Name: Plato - v4.10.0
-* Template URL: https://bootstrapmade.com/plato-responsive-bootstrap-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 /*--------------------------------------------------------------
 # General
@@ -438,6 +433,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
+  opacity: 1 !important;
 }
 
 .section-bg {
